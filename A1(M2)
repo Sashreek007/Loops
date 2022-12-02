@@ -1,0 +1,6 @@
+
+nums = [x for x in range(0,11)]
+index = 0
+while index < len(nums):
+    print(nums[index], end=", ")
+    index +=1
